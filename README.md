@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ambi
-- 👀 I’m interested in UX/UI design, three.js and shiny unicorns 🦄🌟
-- 🌱 I’m currently learning HTML/CSS and graphic design
+- 👋 Hi, I’m Amb
+- 👀 I’m interested in UX/UI design, google sheet, three.js
+- 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on any random funny project
 - 📫 How to reach me: ambroise.nicolao@gmail.com
 
